@@ -1,11 +1,11 @@
-# Chat app 💬 using websockets (Nodejs, Express & Socket.io)
+# GChat app: Group Chat application 💬 using websockets (Nodejs, Express & Socket.io)
 
 ## To start setting up the project
 
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/chat-socket.io.git
+git clone https://github.com/Mirnalkishor/Gchat.git
 ```
 
 Step 2: cd into the cloned repo and run:
